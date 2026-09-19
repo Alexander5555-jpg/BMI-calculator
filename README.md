@@ -1,6 +1,8 @@
 # BMI Calculator
 
-Written while learning Python (CS50 week 0)
+BMI-calculator: Simple BMI calculator from weight and height input.
+
+Written while learning Python (CS50 Introduction to Programming with Python https://cs50.harvard.edu/python/)
 
 ## License
 
